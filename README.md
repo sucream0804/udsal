@@ -187,3 +187,7 @@ It seems that I can add reference system regarding [this](https://gis.stackexcha
 
 ### BIM & GIS Integration
 [Awsome-arcgis](https://github.com/hhkaos/awesome-arcgis/tree/master/esri/business-trends/data-management/bim)
+
+### Google Earth
+https://developers.google.com/kml/documentation/cameras <br>
+https://earth.google.com/web/@0,0,0a,22251752.77375655d,35y,0h,0t,0r
